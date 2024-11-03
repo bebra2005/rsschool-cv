@@ -14,6 +14,8 @@ Aspiring front-end developer currently studying at the Faculty of Applied Mathem
 - **Methodologies:** Scrum
 - **Version Control Systems:** Git, GitHub
 - **Development Tools:** Visual Studio Code, Figma
+- **Soft Skills:** Strong problem-solving skills and ability to work collaboratively in teams.
+
 
 ## Code Examples
 - **Personal Portfolio**: https://github.com/bebra2005
